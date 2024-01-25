@@ -1,6 +1,6 @@
 ### Hello there 👋
 ### My name is Xeon 
-### I am a tech nerd
+### I am a nerd
 <br>
 
 - 🔭 I’m currently working on [LoDS](https://github.com/JSSchumacher/LoDS)
