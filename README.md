@@ -39,7 +39,7 @@ Also currently learning Spanish. Slowly, but deliberately.
 
 - 🌐 [Contact form](https://www.joshuaschumacher.com/contact)  
 - ✉️ Email: contact@joshuaschumacher.com  
-- 🛰️ Or connect via socials (listed on my site)
+- 🛰️ Or connect via socials (listed on my [site]((https://www.joshuaschumacher.com/contact/socials)))
 
 ---
 
