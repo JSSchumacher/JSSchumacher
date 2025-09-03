@@ -20,9 +20,10 @@ Also currently learning Spanish. Slowly, but deliberately.
 - 🧩 [**SCHEMA**](https://github.com/JSSchumacher/SCHEMA)  
   A modular framework for naming, tracking, and managing digital files, documents, and archives. Designed for people who want clarity in the chaos.
 
-- 🎮 [**LoDS**](https://github.com/JSSchumacher/LoDS)  
-  A tool that lets you play local DS multiplayer games over the internet.  
-  It bridges the gap between local-only WiFi and online play — no mods, just smart software.
+- 🔥 [**The Burner Method**](https://github.com/JSSchumacher/The-Burner-Method)  
+  A lightweight project management framework that uses a four-burner metaphor to balance focus, resources, and priorities.
+  It helps track active, dormant, and high-intensity projects through burners, heat levels, and fuel budgeting.
+  
 
 ---
 
